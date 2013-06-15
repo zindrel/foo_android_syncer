@@ -15,3 +15,12 @@
 # User added files
 *.user
 *.sdf
+*.tlog
+
+*.obj
+*.log
+
+/ipch/foo_android_syncer-5f028ce2/foo_android_syncer-56e1b7e3.ipch
+
+Debug
+/foo_android_syncer.v11.suo
